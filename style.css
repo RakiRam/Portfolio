@@ -73,11 +73,11 @@ ul {
 }
 
 li {
-    margin-bottom: 8px;
+    margin-bottom: 20px;
 }
 
 li:before {
-    margin-right: 1px;
+    margin-right: 20px;
     content: '\2606';
 }
 
